@@ -1,2 +1,2 @@
-# CRUD_AngularJS
+# CRUD com AngularJS
 Estudando o AngularJS.
